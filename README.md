@@ -1,5 +1,7 @@
+![Chrome Dino](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/4ff07986208593.5d9a654e92f36.gif)
+
 <h1 align="center">Hi there 👋</h1>
-<h3 align="center">I'm a Software Engineer Student at UPV/EHU Bilbao</h3>
+<h3 align="center">I'm currently researching about GPT uses in DevOps</h3>
 
 - 🌱 I’m currently learning
   - <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a>***Bash***
