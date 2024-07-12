@@ -17,10 +17,6 @@ I want to learn more about
 
 ## Pinned Projects
 
-
-
-
-
 ### [AWS_Cloud_Resume](https://github.com/korah91/AWS_Cloud_Resume)
 Resume hosted in AWS S3 using CloudFront, Route53, Lambda and DynamoDB.
 
