@@ -18,16 +18,16 @@ I want to learn more about
 ## Pinned Projects
 
 ### [AWS_Cloud_Resume](https://github.com/korah91/AWS_Cloud_Resume)
-Resume hosted in AWS S3 using CloudFront, Route53, Lambda and DynamoDB.
+Resume hosted in **AWS S3** using **CloudFront**, **Route53**, **Lambda** and **DynamoDB**.
 
 ### [OIDC-App-with-Flask-and-Keycloak](https://github.com/korah91/OIDC-App-with-Flask-and-Keycloak)
-OIDC App with Flask and Keycloak (IAM IdP)
+**OIDC App** with **Flask** and **Keycloak** (IAM IdP)
 
 ### [JumpCloud-Geo-Login-Map](https://github.com/username/JumpCloud-Geo-Login-Map)
-Visualize login attempts on a map using JumpCloud's API.
+Visualize login attempts on a map using **JumpCloud's API**.
 
 ### [DockerRethinkDB](https://github.com/korah91/DockerRethinkDB)
-Deployment of RethinkDB and NGINX using Docker and Kubernetes.
+Deployment of RethinkDB and NGINX using **Docker** and **Kubernetes**.
 
 <p align="left">
 </p>
