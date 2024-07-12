@@ -4,7 +4,7 @@
 
 💼 IAM Cybersecurity Engineer | 🌐 Specializing in Identity & Access Management (IAM)
 
-👨‍💻 Skilled in Okta, CyberArk, Keycloak, and Cloud Security
+👨‍💻 Skilled in IAM, Okta, CyberArk, Keycloak, Jumpcloud, Forgerock
 
 🚀 Passionate about automating systems and improving security
 
