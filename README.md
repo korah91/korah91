@@ -4,7 +4,7 @@
 
 💼 IAM Cybersecurity Engineer | 🌐 Specializing in Identity & Access Management (IAM)
 
-👨‍💻 Skilled in IAM, Okta, CyberArk, Keycloak, Jumpcloud, Forgerock
+👨‍💻 Skilled in Okta, CyberArk, Keycloak, and Cloud Security
 
 🚀 Passionate about automating systems and improving security
 
@@ -14,6 +14,24 @@ I want to learn more about
   - DevOps
   - Kubernetes and Docker
   - Homelabs
+
+## Pinned Projects
+
+
+
+
+
+### [AWS_Cloud_Resume](https://github.com/korah91/AWS_Cloud_Resume)
+Resume hosted in AWS S3 using CloudFront, Route53, Lambda and DynamoDB.
+
+### [OIDC-App-with-Flask-and-Keycloak](https://github.com/korah91/OIDC-App-with-Flask-and-Keycloak)
+OIDC App with Flask and Keycloak (IAM IdP)
+
+### [JumpCloud-Geo-Login-Map](https://github.com/username/JumpCloud-Geo-Login-Map)
+Visualize login attempts on a map using JumpCloud's API.
+
+### [DockerRethinkDB](https://github.com/korah91/DockerRethinkDB)
+Deployment of RethinkDB and NGINX using Docker and Kubernetes.
 
 <p align="left">
 </p>
